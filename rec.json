@@ -1,0 +1,13 @@
+{
+    "name": "Cadastro de usuário",
+    "description": "Neste projeto vamos fazer um cadastro basico de usuario",
+    "authors": [
+        {
+            "name": "Jean Everton",
+            "email": "jeanever39@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.2.8"
+    }
+}
